@@ -1,4 +1,4 @@
-<!--9:05 5 minutes-->
+<!--9:30 5 minutes-->
 
 <!--Hook: Remember ES6?  Today we are going to run through the rest of the major improvements of ES6, and we will wrap up with an ES6 quiz.  These improvements will help you DRY out your code, and put a little more power into your 3rd Projects.-->
 
@@ -13,7 +13,7 @@
 - **Use** arrow functions to simplify anonymous function definitions
 - **Use** the spread operator to manage an array of input
 
-<!--9:10 5 minutes -->
+<!--9:35 5 minutes -->
 
 ### Concise Object Properties and Methods
 
@@ -51,7 +51,7 @@ let obj = {x:x, y:y}
 let obj = {x,y}
 ```
 
-<!--9:15 5 minutes -->
+<!--9:40 5 minutes -->
 
 #### You do: Concise methods and properties practice
 
@@ -59,7 +59,7 @@ Use both of these concise syntaxes in the exercise below:
 
 1. https://github.com/ga-wdi-exercises/es6-exercises/blob/master/07-concise-properties-and-methods.js
 
-<!--9:20 5 minutes -->
+<!--9:45 5 minutes -->
 
 ### Template Literals
 
@@ -87,13 +87,13 @@ Way easier, right?
 
 <!-- Actually 9:27 -->
 
-<!--9:25 5 minutes -->
+<!--9:50 10 minutes -->
 
 #### You do: Template Exercise
 
 1. https://github.com/ga-wdi-exercises/es6-exercises/blob/master/09-templates.js
 
-<!--9:30 10 minutes -->
+<!--10:00 10 minutes -->
 
 ### Arrow Functions
 
@@ -160,9 +160,9 @@ let add = (x,y) => {
 }
 ```
 
-<!--Actually 9:46 -->
+<!--Actually 6 mins back WDI2 -->
 
-<!--9:40 10 minutes -->
+<!-- 10:10 10 minutes -->
 
 #### You do: Arrow functions
 
@@ -170,7 +170,7 @@ let add = (x,y) => {
 
 1. https://github.com/ga-wdi-exercises/es6-exercises/blob/master/11-arrow-functions.js
 
-<!--9:50 10 minutes -->
+<!--10:20 10 minutes -->
 
 ### Spread operator
 
@@ -223,7 +223,7 @@ console.log(reversedDays(days))
 console.log(days)
 ```
 
-<!--10:00 5 minutes -->
+<!--10:30 5 minutes -->
 
 #### You do: Spread Practice
 
@@ -233,7 +233,7 @@ console.log(days)
 
 Tweak the values of those variables and test it again.
 
-<!--10:05 5 minutes -->
+<!--10:35 5 minutes -->
 
 ## Legacy Browser Support
 
@@ -242,8 +242,6 @@ Support for ES6 is great! - https://kangax.github.io/compat-table/es6/
 If you need to support a legacy browser, check out the following tools:
 - [Traceur](https://github.com/google/traceur-compiler/wiki/Getting-Started)
 - [Babel](https://babeljs.io/)
-
-<!--I think we were like 10:20 or so here, maybe 10:23-->
 
 ## Keep Going
 
