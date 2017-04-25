@@ -1,3 +1,4 @@
+<!--9:46 WDI3 -->
 <!--9:30 5 minutes-->
 
 <!--Hook: Remember ES6?  Today we are going to run through the rest of the major improvements of ES6, and we will wrap up with an ES6 quiz.  These improvements will help you DRY out your code, and put a little more power into your 3rd Projects.-->
@@ -13,6 +14,7 @@
 - **Use** arrow functions to simplify anonymous function definitions
 - **Use** the spread operator to manage an array of input
 
+<!--9:47 -->
 <!--9:35 5 minutes -->
 
 ### Concise Object Properties and Methods
@@ -51,6 +53,7 @@ let obj = {x:x, y:y}
 let obj = {x,y}
 ```
 
+<!--9:51 WDI3 -->
 <!--9:40 5 minutes -->
 
 #### You do: Concise methods and properties practice
@@ -59,6 +62,7 @@ Use both of these concise syntaxes in the exercise below:
 
 1. https://github.com/ga-wdi-exercises/es6-exercises/blob/master/07-concise-properties-and-methods.js
 
+<!--9:56 WDI3 -->
 <!--9:45 5 minutes -->
 
 ### Template Literals
@@ -85,7 +89,8 @@ console.log(`Hello. My name is ${name}. You killed my ${killee}. Prepare to ${pr
 
 Way easier, right?
 
-<!-- Actually 9:27 -->
+<!-- 10:00 WDI3 -->
+<!-- Actually 9:27 WDI2-->
 
 <!--9:50 10 minutes -->
 
@@ -93,6 +98,7 @@ Way easier, right?
 
 1. https://github.com/ga-wdi-exercises/es6-exercises/blob/master/09-templates.js
 
+<!--10:10 WDI3 -->
 <!--10:00 10 minutes -->
 
 ### Arrow Functions
@@ -161,7 +167,7 @@ let add = (x,y) => {
 ```
 
 <!--Actually 6 mins back WDI2 -->
-
+<!-- 10:18 WDI3 -->
 <!-- 10:10 10 minutes -->
 
 #### You do: Arrow functions
@@ -233,6 +239,7 @@ console.log(days)
 
 Tweak the values of those variables and test it again.
 
+<!--10:47 WDI3 -->
 <!--10:35 5 minutes -->
 
 ## Legacy Browser Support
@@ -259,3 +266,5 @@ There are lots more features of ES6 that we have not covered:
 - [Block Scope](https://www.sitepoint.com/joys-block-scoping-es6/)
 - [Destructuring](http://www.2ality.com/2015/01/es6-destructuring.html)
 - [Template Literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals#Tagged_template_literals)
+
+<!--10:50 WDI3 -->
