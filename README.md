@@ -1,3 +1,4 @@
+<!--Damn it, just closed out of all my timing notes for WDI4 --started at 9:31, ended at 10:47, time started slipping toward the end, demo pieces are shorter than time given...exercise pieces are longer than time given -->
 <!--9:46 WDI3 -->
 <!--9:30 5 minutes-->
 
